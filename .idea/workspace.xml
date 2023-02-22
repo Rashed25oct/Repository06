@@ -5,15 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dcd8dfd-833e-4fba-917a-5049e0b502b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Repository06/src/test/java/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repository06/src/test/java/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repository06/src/test/java/base/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repository06/src/test/java/stepDefinition/Hook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repository06/src/test/java/stepDefinition/loginSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Repository06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Repository06/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Repository06/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Repository06/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Repository06/src/test/java/org/example/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Repository06" />
@@ -34,12 +42,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/rashe/GITHUB/Repository06/src/test/java/stepDefinition"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Repository06." />
